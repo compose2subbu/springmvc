@@ -1,1 +1,1 @@
-RUN java -jar target/dependency/webapp-runner.jar --port 8080 target/*.war
+RUN java -jar target/dependency/webapp-runner.jar target/*.war
